@@ -1,0 +1,35 @@
+1
+00:00:00,000 --> 00:00:02,100
+AI Agent bisa mengerjakan tugas…
+
+2
+00:00:02,100 --> 00:00:04,000
+Bukan cuma menjawab pertanyaan.
+
+3
+00:00:04,000 --> 00:00:06,400
+AI + tujuan + memori + tools
+
+4
+00:00:06,400 --> 00:00:08,000
+Bekerja secara bertahap.
+
+5
+00:00:08,000 --> 00:00:12,000
+Semuanya dimulai dari trigger.
+
+6
+00:00:12,000 --> 00:00:16,000
+Pesan, email, form, atau jadwal.
+
+7
+00:00:16,000 --> 00:00:20,000
+Agent membaca permintaan.
+
+8
+00:00:20,000 --> 00:00:24,000
+Memahami tujuan dan kebutuhan data.
+
+9
+00:00:24,000 --> 00:00:30,000
+Lalu mengenali batasan tugas.
