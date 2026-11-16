@@ -73,7 +73,7 @@ def make_scene(i, data):
     # content card
     rounded(d,(80,1310,1000,1610),40,(22,31,70,245),(126,83,220,220),3)
     d.text((130,1370),card,font=font(46),fill=(84,229,255,255))
-    for j,line in enumerate(textwrap.wrap(desc, width= thirty := 32)):
+    for j,line in enumerate(textwrap.wrap(desc, width=32)):
         d.text((130,1450+j*62),line,font=font(34,False),fill=(238,242,255,255))
     rounded(d,(100,1690,980,1795),35,(46,26,83,235),(255,83,201,230),3)
     d.text((140,1720),flow,font=font(34),fill=(255,255,255,255))
