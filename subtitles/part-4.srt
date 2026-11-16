@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:04,000
+Keputusan penting tetap dikontrol manusia.
+
+2
+00:00:04,000 --> 00:00:10,000
+Agent meminta persetujuan lebih dulu.
+
+3
+00:00:10,000 --> 00:00:14,000
+Tugas selesai.
+
+4
+00:00:14,000 --> 00:00:20,000
+Hasil terkirim otomatis.
+
+5
+00:00:20,000 --> 00:00:23,000
+Manusia atur tujuan.
+
+6
+00:00:23,000 --> 00:00:26,000
+Batasan dan keputusan.
+
+7
+00:00:26,000 --> 00:00:30,000
+Follow untuk tutorial berikutnya.
