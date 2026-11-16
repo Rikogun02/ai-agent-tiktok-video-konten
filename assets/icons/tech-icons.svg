@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240">
+<g fill="none" stroke="#17DFF5" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(20 20)"><path d="M55 20 C20 0 0 35 18 60 C-2 90 25 120 55 105 C85 120 112 90 92 60 C110 35 85 0 55 20Z"/><path d="M55 20V105M20 52L48 68M90 52L62 68M28 90L48 82M82 90L62 82"/></g>
+<g transform="translate(180 20)"><circle cx="55" cy="62" r="32"/><path d="M55 8V25M55 99V116M1 62H18M92 62H109M17 24L30 37M80 87L93 100M93 24L80 37M30 87L17 100"/><circle cx="55" cy="62" r="10"/></g>
+<g transform="translate(340 20)"><ellipse cx="55" cy="25" rx="43" ry="15"/><path d="M12 25V92C12 110 98 110 98 92V25M12 58C12 76 98 76 98 58"/></g>
+<g transform="translate(500 20)"><path d="M10 28H100V94H10Z"/><path d="M30 48L45 61L30 74M60 74H82"/></g>
+<g transform="translate(660 20)"><path d="M15 10H75L100 35V110H15Z"/><path d="M75 10V35H100M32 57H82M32 78H82M32 98H68"/></g>
+<g transform="translate(820 20)"><path d="M10 20H100V90H10Z"/><path d="M30 110H80M55 90V110M25 65L43 48L58 60L83 35"/></g>
+</g>
+<g fill="#EAFBFF" font-family="Arial,sans-serif" font-size="19" font-weight="700" text-anchor="middle"><text x="75" y="180">AI BRAIN</text><text x="235" y="180">GEAR</text><text x="395" y="180">DATABASE</text><text x="555" y="180">API</text><text x="715" y="180">DOCUMENT</text><text x="875" y="180">ANALYTICS</text></g>
+</svg>
